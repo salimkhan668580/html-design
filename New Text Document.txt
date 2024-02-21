@@ -1,0 +1,7 @@
+ black #222222
+
+white - #f6edde
+
+pink - #f64b3c
+
+Archivo
